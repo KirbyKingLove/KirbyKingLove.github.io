@@ -55,10 +55,10 @@ author_profile: true
 </head>
 <body>
 
- 友链 
-======
+<h2> 友链</h2> 
 
-**感谢徐靖学长对本网站建设代码的开源工作以及对我的引导工作！**
+
+<strong>感谢徐靖学长对本网站建设代码的开源工作以及对我的引导工作！</strong>
 
 <br/><br/>
 <div class="friend-links-container">
