@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 {% include base_path %}
+<!-- 笔记列表 -->
+## 笔记列表 ##
+1. **货币银行学** 国家发展研究院 *李明浩*
+2. **电子线路分析与设计** 信息科学技术学院 *胡薇薇，陈江*
 
+
+## 下载链接 ##
 <style>
   /* 折叠面板样式 */
   .accordion {
@@ -85,8 +91,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- 笔记列表 -->
-<h2>笔记列表</h2>
+
 
 {% assign notes = site.Notes | sort: 'date' | reverse %}
 {% for post in notes %}
