@@ -1,5 +1,5 @@
 ---
-title: my Repositories:"KirbyKingLike.github.io"
+title: Repositories
 collection: Repositories
 type: "Repositories"
 permalink: /Repositories/KirbyKingLike.github.io
