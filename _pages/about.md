@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-I am a member of the Class of 2024 at **[Peking University]**(https://www.pku.edu.cn), pursuing a Bachelor’s degree in Electronics and Information Science at **the School of Electronics Engineering and Computer Science**([EECS](https://eecs.pku.edu.cn/)), with a dual degree in Economics from the **National School of Development** ([NSD](http://nsd.pku.edu.cn/)). **My academic focus spans communication technologies and digital system design**.
+I am a member of the Class of 2024 at Peking University[PKU](https://www.pku.edu.cn/), pursuing a Bachelor’s degree in Electronics and Information Science at **the School of Electronics Engineering and Computer Science**([EECS](https://eecs.pku.edu.cn/)), with a dual degree in Economics from the **National School of Development** ([NSD](http://nsd.pku.edu.cn/)). **My academic focus spans communication technologies and digital system design**.
 
 Beyond academics, I’m an avid Steam gamer!So feel free to join me in *Stardew Valley* for some cooperative farming!Also,I'm a crazy Kirby-lover!
 

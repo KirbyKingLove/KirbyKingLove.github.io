@@ -47,9 +47,9 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: YangLongcan 
+* Phone and WeChat: 18810582559 / Email: [2300011892@stu.pku.edu.cn](2300011892@stu.pku.edu.cn)
+* Personal Website: [KirbyKingLove.github.io](https://kirbykinglove.github.io/)
 
 Education
 ======
