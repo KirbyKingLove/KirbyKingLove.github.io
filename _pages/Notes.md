@@ -67,7 +67,7 @@ author_profile: true
   }
 </style>
 
-## 关于笔记 ##
+
 **在您下载笔记之前，请先看Attention一栏。**
 
 <!-- 笔记列表 -->
