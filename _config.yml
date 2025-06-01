@@ -261,10 +261,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _Repositories
+  # _Attention
   - scope:
       path: ""
-      type: Repositories
+      type: Attention
     values:
       layout: single
       author_profile: true
