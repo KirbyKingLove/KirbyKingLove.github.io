@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Pkuhub's site"
+title                    : "-KirbyKingLove's site"
 title_separator          : "-"
-name                     : &name "xker "
-description              : &description "111"
-url                      : https://pkuhub-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pkuhub-dev/pkuhub-dev.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+name                     : &name "Yang Longcan"
+description              : &description "Yang Longcan | EE & Econ student at PKU. Notes and musings."
+url                      : https://kirbykinglove.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "KirbyKingLove/KirbyKingLove.github.io"
+teaser                   :  500x300.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -56,12 +56,14 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+Bilibili:
+  username               : 404NOT_FOUND0518
+  app_id                 : 402430237      
+wechat:
+  username               :KirbyKing
+  app_id                 :LCoscillator111
+email:
+  app_id                 :2300011892@stu.pku.edu.cn
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -80,23 +82,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
-  avatar           : "white.png"
+  name             : "YangLongcan"
+  avatar           : "Kirby.png"
   bio              : "Peking University"
   location         : "China Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "help@pkuhub.cn"
+  email            : "2300011892@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  https://kirbykinglove.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "KirbyKingLove"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +109,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : KirbyKingLike
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
@@ -115,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : 
+  wechat           : LCoscillator111
 
 
 # Reading Files
@@ -315,7 +317,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
