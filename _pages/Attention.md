@@ -4,7 +4,7 @@ title: "Attention"
 permalink: /Attention/  
 author_profile: true
 ---
-
+{% include base_path %}
 <style>
 .notice-box {
   background: #f8f9fa;
@@ -28,4 +28,4 @@ author_profile: true
   <p>我的笔记在PKUHub上进行了发布，可自由查看。笔记使用工具为PkuLaTeX制作。</p>
   <p>笔记作者名称：404—NOT—FOUND（PkuLaTeX账号同名）</p>
   <a href="https://pkuhub.cn/" class="download-btn">访问PKUHub平台</a>
-</div> {% include base_path %}
+</div> 
