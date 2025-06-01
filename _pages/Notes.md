@@ -61,7 +61,8 @@ author_profile: true
 </style>
 
 <!-- 文档下载链接 -->
-<a href="/files/货币银行学.pdf" download class="download-link"></a>
+<a href="/files/货币银行学.pdf" download class="download-link">
+货币银行业 李明浩</a>
 
 <!-- 笔记信息面板 -->
 <div class="accordion">
