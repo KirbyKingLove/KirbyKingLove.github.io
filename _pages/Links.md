@@ -55,13 +55,9 @@ author_profile: true
 </head>
 <body>
 
+## 友链 ##
 
-<h2>下载专区</h2>
-<ul>
-  <li><a href="../files/北京大学2025春季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
-</ul>
-
-<h2>友链</h2>
+**感谢Xu Jing同学对本网站建设代码的开源工作以及对我的引导工作！**
 
 <br/><br/>
 <div class="friend-links-container">
@@ -82,21 +78,21 @@ author_profile: true
 <br/>
 
 <!-- Giscus 评论系统嵌入 -->
-在你修改前, 这个评论区不是你的
+
 
 <script src="https://giscus.app/client.js"
-        data-repo="ICUlizhi/ICUlizhi.github.io"
-        data-repo-id="R_kgDOKfCXRQ"
+        data-repo="KirbyKingLove/KirbyKingLove.github.io"
+        data-repo-id="R_kgDOOz-ERg"
         data-category="Announcements"
-        data-category-id="DIC_kwDOKfCXRc4CknGa"
-        data-mapping="url"
+        data-category-id="DIC_kwDOOz-ERs4Cq4Oj"
+        data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
+        data-emit-metadata="0"
+        data-input-position="bottom"
         data-theme="light"
-        data-lang="zh-CN"
-        data-loading="lazy"
+       
+      data-lang="zh-CN"
         crossorigin="anonymous"
         async>
 </script>

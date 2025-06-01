@@ -53,14 +53,32 @@ redirect_from:
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
+* Undergraduate: Beijing, Peking University, 2023
+  * Major: Electronics and Information Science, School of Electronics Engineering and Computer Science
   * Double Degree: Economics, National School of Development
 
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* The Qin Wanshun and Jin Yunhui Scholarship (2023-2024)
+* Honor Student of Peking University(2023-2024)
+* The 37th CCHO  Provincial-Level First Prize
+* The 36th CCHO  Provincial-Level First Prize
+* The 39th CMO  Provincial-Level Third Prize
+* The 38th CMO  Provincial-Level Third Prize
 
+Awards
+======
+* The Qin Wanshun and Jin Yunhui Scholarship (2023-2024)
+* Honor Student of Peking University(2023-2024)
+* The 37th CCHO  Provincial-Level First Prize
+* The 36th CCHO  Provincial-Level First Prize
+* The 39th CMO  Provincial-Level Third Prize
+* The 38th CMO  Provincial-Level Third Prize
+
+Research Interests
+======
+* Digital System Design
+* Signal Processing
 <!--
 Work experience
 ======
