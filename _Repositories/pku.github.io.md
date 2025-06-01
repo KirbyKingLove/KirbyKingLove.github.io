@@ -1,13 +1,14 @@
 ---
-title: "pku.github.io"
+title: my Repositories:"KirbyKingLike.github.io"
 collection: Repositories
 type: "Repositories"
-permalink: /Repositories/pku.github.io
+permalink: /Repositories/KirbyKingLike.github.io
 venue: "Peking Univercity"
-date: 2024-08-22
+date: 2025-05-01
 location: "Beijing, China"
 ---
-我的第一个html:暂时不能给你明确的答复.com
-- 状态 : 完结,开源
-- 描述 : 随机跳转北大和信科官网,纯整活
-- 链接 : [ICUlizhi.github.io](https://github.com/ICUlizhi/ICUlizhi.github.io)
+这是我的github仓库。
+
+- 关于笔记：我的笔记在pkuhub上进行了发布，可自由查看。笔记使用工具为pkulatex制作。笔记作者名称：404—NOT—FOUND（pkulatex账号同名）
+
+- 链接 : [https://pkuhub.cn/](https://pkuhub.cn/)
