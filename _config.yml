@@ -196,7 +196,7 @@ collections:
   Notes:
     output: true
     permalink: /:collection/:path/
-  Blogs:
+  More Sources:
     output: true
     permalink: /:collection/:path/
   additions:
@@ -279,10 +279,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Blogs
+  # _More Sources
   - scope:
       path: ""
-      type: Blogs
+      type: More Sources
     values:
       layout: single
       author_profile: true
