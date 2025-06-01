@@ -55,9 +55,10 @@ author_profile: true
 </head>
 <body>
 
-## 友链 ##
+ 友链 
+======
 
-**感谢Xu Jing同学对本网站建设代码的开源工作以及对我的引导工作！**
+**感谢徐靖学长对本网站建设代码的开源工作以及对我的引导工作！**
 
 <br/><br/>
 <div class="friend-links-container">
