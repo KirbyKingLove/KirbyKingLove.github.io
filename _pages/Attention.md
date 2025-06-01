@@ -30,7 +30,7 @@ author_profile: true
 </style>
 
 <div class="notice-box">
-  <p>我的笔记在PKUHub上进行了发布，可自由查看。<strong>笔记使用工具为PKULaTeX</strong>。</p>
+  <p>我的笔记在PKUHUB上进行了发布，可自由查看。<strong>笔记使用工具为PKULaTeX</strong>。</p>
   <p>笔记作者名称：404-NOT-FOUND（PKUHUB账号同名）</p>
   <a href="https://pkuhub.cn/" class="download-btn">访问PKUHUB平台</a>
 

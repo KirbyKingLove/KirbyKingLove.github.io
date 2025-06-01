@@ -55,7 +55,7 @@ author_profile: true
 </head>
 <body>
 
-<h2> 友链</h2> 
+<h2>友链</h2> 
 
 
 <strong>感谢徐靖学长对本网站建设代码的开源工作以及对我的引导工作！</strong>
