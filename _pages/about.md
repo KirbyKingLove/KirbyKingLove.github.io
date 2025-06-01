@@ -7,22 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h2>About Me<h2>
+I am a member of the Class of 2024 at [Peking University](https://www.pku.edu.cn/), pursuing a Bachelor’s degree in Electronics and Information Science at the School of Electronics Engineering and Computer Science ([EECS](https://eecs.pku.edu.cn/)), with a dual degree in Economics from the National School of Development ([NSD](http://nsd.pku.edu.cn/)). My academic focus spans communication technologies and digital system design.
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in the 22nd Turing Class. At the same time, I studied for a double degree in economics at the National School of Development.
+Beyond academics, I’m an avid Steam gamer!So feel free to join me in Stardew Valley for some cooperative farming!Also,I'm a crazy Kirby-lover.
 
-My research interests and skills are concentrated in the fields of ml, nlp, llms, etc. I am currently studying in Mr. Yizhou Wang's program.  <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
+<h2>About This Site <h2>
+This website serves as a dynamic platform to:
 
-<!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
+Share personal updates and curated study notes (currently also hosted on PKUHub).
 
-<!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
+Document my evolving research interests in tech-driven fields.
 
-The website is still under construction. Codes and course notes are uploading quickly.
+Showcase future projects and collaborations.
+
+<h2> Contact & Feedback <h2>
+For note corrections or collaborations, do feel free to contact me at 2300011892@stu.pku.edu.cn. The site will be regularly updated—stay tuned!
 
 <h2>Pageviews</h2>
-在你修改之前, 这里不是你的网站的访问信息
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+This chart provides a visual representation of visitor metrics, including both traffic volume and geographical distribution data.
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=r60oFeHXcYoQoLGX1rL2R4ds9oTr3tYpFwr3nueU2nU&cl=ffffff&w=a"></script>
 <h2>Contact me</h2>
 
 
-[Email](mailto:2200012917@stu.pku.edu.cn) / [Github](https://github.com/ICUlizhi) / [Wechat](../images/wechat.png) 
+[Email](mailto:2300011892@stu.pku.edu.cn) / [Github](https://github.com/KirbyKingLove) / [Wechat](../images/Wechat.png) 
 
