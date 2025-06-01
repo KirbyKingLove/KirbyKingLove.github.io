@@ -8,11 +8,50 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  /* 原有样式保留 */
-  .accordion { /* 原有样式 */ }
-  .accordion-header { /* 原有样式 */ }
-  .accordion-content { /* 原有样式 */ }
-  .download-link { /* 原有样式 */ }
+  /* 折叠面板样式 */
+  .accordion {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    margin: 20px 0;
+  }
+  .accordion-header {
+    padding: 12px 15px;
+    background: #f6f8fa;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+  }
+  .accordion-content {
+    padding: 15px;
+    display: none;
+  }
+  .accordion.active .accordion-content {
+    display: block;
+  }
+  
+  /* 下载链接样式 */
+  .download-link {
+    display: inline-block;
+    padding: 10px;
+    background: #f5f5f5;
+    border-radius: 4px;
+    color: #0366d6;
+    text-decoration: none;
+    margin: 10px 0;
+  }
+  
+  /* 更新日志条目样式 */
+  .update-entry {
+    margin-bottom: 15px;
+  }
+  .update-date {
+    font-weight: 500;
+    color: #586069;
+  }
+  .update-title {
+    font-weight: 600;
+  }
   
   /* 新增：可点击的笔记列表样式 */
   .note-title {
@@ -27,6 +66,9 @@ author_profile: true
     margin-top: -50px;
   }
 </style>
+
+##关于笔记##
+**在您下载笔记之前，请先看Attention一栏。**
 
 <!-- 笔记列表 -->
 ## 笔记列表 ##
