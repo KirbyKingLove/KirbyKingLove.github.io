@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="file/中级微观经济学.pdf" download>nsd wm 2024-2025第二学期</a>
+<a href="file/货币银行学.pdf" download>nsd wm 2024-2025第二学期</a>
 
 
 ## 观点与本站发展
