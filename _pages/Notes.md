@@ -61,9 +61,7 @@ author_profile: true
 </style>
 
 <!-- 文档下载链接 -->
-<a href="/files/货币银行学.pdf" download class="download-link">
-  货币银行学.pdf nsd wm 2024-2025第二学期
-</a>
+<a href="/files/货币银行学.pdf" download class="download-link"></a>
 
 <!-- 笔记信息面板 -->
 <div class="accordion">
