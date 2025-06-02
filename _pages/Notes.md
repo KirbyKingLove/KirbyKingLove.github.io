@@ -107,7 +107,7 @@ author_profile: true
 **在您下载笔记之前，请先看Attention一栏。**因为笔记较多，所以直接翻找有些困难（*其实是我懒得敲分页代码了*）。我在笔记列表中插入了超链接，读者可直接选择跳转。
 
 
- ## 笔记列表 ##
+## 笔记列表 ##
 1. <span class="note-title" onclick="document.getElementById('note1').scrollIntoView({behavior: 'smooth'})">货币银行学</span> 国家发展研究院 *李明浩*
 2. <span class="note-title" onclick="document.getElementById('note2').scrollIntoView({behavior: 'smooth'})">电子线路分析与设计</span> 信息科学技术学院 *胡薇薇，陈江*
 3. <span class="note-title" onclick="document.getElementById('note3').scrollIntoView({behavior: 'smooth'})">高等数学II</span> 数学科学学院 *黄得*
