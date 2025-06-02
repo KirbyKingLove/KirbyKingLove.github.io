@@ -368,7 +368,7 @@ author_profile: true
 <!-- 电磁学 -->
 <div id="note8" class="note-section"></div>
 <a href="/files/电磁学.pdf" download class="download-link">
-8. 电磁学.pdf</a>
+8.电磁学.pdf</a>
 
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
