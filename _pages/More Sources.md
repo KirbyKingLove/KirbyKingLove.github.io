@@ -11,7 +11,7 @@ author_profile: true
 ## 做PPT的网站 ##
 如果你想寻找一些PPT的免费素材，可以[点击此处](https://www.ypppt.com/tubiao/)进行跳转。
 
-##  国际象棋大玩家！##
+## 国际象棋大玩家 ##
 喜欢下国际象棋吗？那就快[点击此处](https://lichess.org/)一起练习国际象棋吧！
 
 ##  电脑记笔记 ##
@@ -48,4 +48,3 @@ author_profile: true
           crossorigin="anonymous"
           async>
   </script>
-</div>

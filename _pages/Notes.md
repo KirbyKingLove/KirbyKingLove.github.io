@@ -1,4 +1,13 @@
- <style>
+---
+layout: archive
+title: "Notes"
+permalink: /Notes/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
   /* 折叠面板样式 */
   .accordion {
     border: 1px solid #e1e4e8;
