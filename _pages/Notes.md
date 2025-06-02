@@ -102,8 +102,10 @@ author_profile: true
   }
 </style>
 
+
 ## 用前须知 ##
 **在您下载笔记之前，请先看Attention一栏。**因为笔记较多，所以直接翻找有些困难（*其实是我懒得敲分页代码了*）。我在笔记列表中插入了超链接，读者可直接选择跳转。
+
 
  ## 笔记列表 ##
 1. <span class="note-title" onclick="document.getElementById('note1').scrollIntoView({behavior: 'smooth'})">货币银行学</span> 国家发展研究院 *李明浩*
