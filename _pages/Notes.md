@@ -123,6 +123,34 @@ author_profile: true
 <div id="note1" class="note-section"></div>
 <a href="/files/货币银行学.pdf" download class="download-link">
 1.货币银行学.pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
+
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
 
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
@@ -158,7 +186,34 @@ author_profile: true
 <div id="note2" class="note-section"></div>
 <a href="/files/电子线路分析与设计_模拟电路部分.pdf" download class="download-link">
 2.电子线路分析与设计_模拟电路部分.pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -192,7 +247,34 @@ author_profile: true
 <div id="note3" class="note-section"></div>
 <a href="/files/高等数学_II_.pdf" download class="download-link">
 3.高等数学（下）[高数A、B均可用].pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -226,7 +308,34 @@ author_profile: true
 <div id="note4" class="note-section"></div>
 <a href="/files/普通生物学_B_.pdf" download class="download-link">
 4.普通生物学(B).pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -260,7 +369,34 @@ author_profile: true
 <div id="note5" class="note-section"></div>
 <a href="/files/数学物理方法.pdf" download class="download-link">
 5.数学物理方法.pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -294,7 +430,34 @@ author_profile: true
 <div id="note6" class="note-section"></div>
 <a href="/files/数字电路与系统设计.pdf" download class="download-link">
 6.数字电路与系统设计.pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -336,7 +499,34 @@ author_profile: true
 <div id="note7" class="note-section"></div>
 <a href="/files/中级微观经济学.pdf" download class="download-link">
 7.中级微观经济学.pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -371,7 +561,34 @@ author_profile: true
 <div id="note8" class="note-section"></div>
 <a href="/files/电磁学.pdf" download class="download-link">
 8.电磁学.pdf</a>
+<span id="download-count-货币银行学">(0次下载)</span>
 
+<script>
+// 从本地存储获取或初始化下载计数
+function getDownloadCount(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    return counts[filename] || 0;
+}
+
+// 更新下载计数显示
+function updateDownloadCountDisplay(filename) {
+    const count = getDownloadCount(filename);
+    document.getElementById(`download-count-${filename}`).textContent = `(${count}次下载)`;
+}
+
+// 跟踪下载
+function trackDownload(filename) {
+    let counts = JSON.parse(localStorage.getItem('downloadCounts') || '{}');
+    counts[filename] = (counts[filename] || 0) + 1;
+    localStorage.setItem('downloadCounts', JSON.stringify(counts));
+    updateDownloadCountDisplay(filename);
+}
+
+// 页面加载时显示计数
+window.addEventListener('DOMContentLoaded', () => {
+    updateDownloadCountDisplay('货币银行学');
+});
+</script>
  <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
