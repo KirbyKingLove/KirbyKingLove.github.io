@@ -184,7 +184,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 <!-- 电子线路分析与设计 -->
 <div id="note2" class="note-section"></div>
-<a href="/files/电子线路分析与设计_模拟电路部分.pdf" download class="download-link">
+<a href="/files/电子线路分析与设计__模拟电路部分.pdf" download class="download-link">
 2.电子线路分析与设计_模拟电路部分.pdf</a>
 <span id="download-count-货币银行学">(0次下载)</span>
 
@@ -306,7 +306,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 <!-- 普通生物学B -->
 <div id="note4" class="note-section"></div>
-<a href="/files/普通生物学_B_.pdf" download class="download-link">
+<a href="/files/普通生物学_B.pdf" download class="download-link">
 4.普通生物学(B).pdf</a>
 <span id="download-count-货币银行学">(0次下载)</span>
 
