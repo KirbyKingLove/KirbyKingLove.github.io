@@ -382,6 +382,14 @@ author_profile: true
   </div>
   <div class="accordion-content">
     <div class="timeline">
+    <div class="timeline-entry">
+        <div class="timeline-date">02</div>
+        <div class="timeline-content">
+          <div class="timeline-title">完整版本</div>
+          <div class="timeline-desc">2025-06-06</div>
+          <div class="timeline-desc">补充了对磁介质的介绍</div>
+        </div>
+      </div>
       <div class="timeline-entry">
         <div class="timeline-date">01</div>
         <div class="timeline-content">
