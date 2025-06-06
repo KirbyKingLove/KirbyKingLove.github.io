@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 I am a student of the Class of 2024 at Peking University([PKU](https://www.pku.edu.cn/)), pursuing a Bachelor’s degree in Electronics and Information Science at **the School of Electronics Engineering and Computer Science**([EECS](https://eecs.pku.edu.cn/)), with a dual degree in Economics from the **National School of Development** ([NSD](http://nsd.pku.edu.cn/)). **My academic focus spans communication technologies and digital system design**.
 
-Beyond academics, I’m an avid Steam gamer!So feel free to join me in *Stardew Valley* for some cooperative farming!Also,I'm a crazy Kirby-lover!
+Beyond academics, I’m an avid Steam gamer!So feel free to join me in *Stardew Valley* for some cooperative farming!Also,I'm a crazy Kirby-lover and TETO fans!
 
 Here is my education situation:
 <div class="education-timeline">
@@ -25,7 +25,7 @@ Here is my education situation:
             </div>
             <div class="additional-info">
                 <p>• Major: Electronics and Information Science</p>
-                <p>• Double Degree: National School of Development (concurrent)</p>
+                <p>• Dual Degree: National School of Development </p>
             </div>
         </div>
     </div>
@@ -148,7 +148,8 @@ This website serves as a dynamic platform to:
  - Document my evolving research interests in tech-driven fields.
 
  - Showcase future projects and collaborations.
-<img src="images/KKKKK.png" alt="Kirby Love U!" width="500">
+<img src="images/KKKKK.png" alt="Kirby Loves U!" width="500">
+<img src="images/teto.png" alt="Teto Loves U!" width="500">
 
 ## Contact & Feedback 
 For note corrections or collaborations, do feel free to contact me at **2300011892@stu.pku.edu.cn**. The site will be regularly updated—stay tuned!
