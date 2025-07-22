@@ -116,6 +116,8 @@ author_profile: true
 6. <span class="note-title" onclick="document.getElementById('note6').scrollIntoView({behavior: 'smooth'})">数字电路与系统设计</span> 信息科学技术学院 *罗武*
 7. <span class="note-title" onclick="document.getElementById('note7').scrollIntoView({behavior: 'smooth'})">中级微观经济学</span> 国家发展研究院 *王敏*
 8. <span class="note-title" onclick="document.getElementById('note8').scrollIntoView({behavior: 'smooth'})">电磁学</span> 元培学院 *韩铭*
+9. <span class="note-title" onclick="document.getElementById('note8').scrollIntoView({behavior: 'smooth'})">高等数学I</span> 数学科学学院 *黄得*
+10. <span class="note-title" onclick="document.getElementById('note8').scrollIntoView({behavior: 'smooth'})">高等数学（合订本）</span> 数学科学学院 *黄得*
 
 ## 下载链接 ##
 
@@ -175,6 +177,12 @@ author_profile: true
   <div class="accordion-content">
     <div class="timeline">
       <div class="timeline-entry">
+      <div class="timeline-date">02</div>
+        <div class="timeline-content">
+          <div class="timeline-title">第二版（美化版）</div>
+          <div class="timeline-desc">2025-07-22</div>
+          <div class="timeline-desc">将笔记版式进行统一，增加了两道考试例题</div>
+        </div>
         <div class="timeline-date">01</div>
         <div class="timeline-content">
           <div class="timeline-title">初始版本</div>
@@ -189,7 +197,7 @@ author_profile: true
 <!-- 高等数学II -->
 <div id="note3" class="note-section"></div>
 <a href="/files/高等数学_II_.pdf" download class="download-link">
-3.高等数学（下）[高数A、B均可用].pdf</a>
+3.高等数学II[高数A、B均可用].pdf</a>
 <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
     <span>笔记信息</span>
@@ -396,6 +404,71 @@ author_profile: true
           <div class="timeline-title">初始版本</div>
           <div class="timeline-desc">2025-06-02</div>
           <div class="timeline-desc">上传了一份笔记，还缺最后一节课的内容</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 高等数学I -->
+<div id="高等数学_I_.pdf" download class="download-link">
+9.高等数学I.pdf</a>
+<div class="accordion">
+  <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
+    <span>笔记信息</span>
+    <span>▾</span>
+  </div>
+  <div class="accordion-content">
+    <p>数学科学学院黄得老师教授，覆盖课本习题和部分xhm可食用例题，尽可能向考试风格靠拢。</p>
+  </div>
+</div>
+
+ <div class="accordion">
+  <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
+    <span>更新日志</span>
+    <span>▾</span>
+  </div>
+  <div class="accordion-content">
+    <div class="timeline">
+      <div class="timeline-entry">
+        <div class="timeline-date">01</div>
+        <div class="timeline-content">
+          <div class="timeline-title">初始版本</div>
+          <div class="timeline-desc">2025-07-22</div>
+          <div class="timeline-desc">上传了一份笔记</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- 高等数学合订 -->
+<div id="高等数学_合订.pdf" download class="download-link">
+9.高等数学(合订本).pdf</a>
+<div class="accordion">
+  <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
+    <span>笔记信息</span>
+    <span>▾</span>
+  </div>
+  <div class="accordion-content">
+    <p>数学科学学院黄得老师教授，将上面的高数I,II合并了。</p>
+  </div>
+</div>
+
+ <div class="accordion">
+  <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
+    <span>更新日志</span>
+    <span>▾</span>
+  </div>
+  <div class="accordion-content">
+    <div class="timeline">
+      <div class="timeline-entry">
+        <div class="timeline-date">01</div>
+        <div class="timeline-content">
+          <div class="timeline-title">初始版本</div>
+          <div class="timeline-desc">2025-07-22</div>
+          <div class="timeline-desc">上传了一份笔记</div>
         </div>
       </div>
     </div>
