@@ -412,7 +412,7 @@ author_profile: true
 
 <!-- 高等数学I -->
 <div id="note9" class="note-section"></div>
-<a href="高等数学_I_.pdf" download class="download-link">
+<a href="/files/高等数学_I_.pdf" download class="download-link">
 9.高等数学I.pdf</a>
 <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
@@ -446,7 +446,7 @@ author_profile: true
 
 <!-- 高等数学合订 -->
 <div id="note10" class="note-section"></div>
-<a href="高等数学_合订.pdf" download class="download-link">
+<a href="/files/高等数学_合订.pdf" download class="download-link">
 10.高等数学(合订本).pdf</a>
 <div class="accordion">
   <div class="accordion-header" onclick="this.parentElement.classList.toggle('active')">
